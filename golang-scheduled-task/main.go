@@ -3,7 +3,8 @@ package main
 import (
     //"fmt"
     //"time"
-	"pruebaImport"
+	"github.com/pedrodlf/Go-Pruebas/pruebaImport"
+	
 )
 
 func main() {

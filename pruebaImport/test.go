@@ -10,6 +10,6 @@ func Hola() {
 
 func Adios() {
 
-	ftm.Println("Adios Cabrones")
+	fmt.Println("Adios Cabrones")
 	
 }
